@@ -1,44 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# :octocat: Github Explorer
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+[![Generic badge](https://img.shields.io/badge/Made%20by-Paulo%20Vieira-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/paulorcvieira/github-explorer.svg)](https://github.com/paulorcvieira/github-explorer) [![Build Status](https://img.shields.io/github/forks/paulorcvieira/github-explorer.svg)](https://github.com/paulorcvieira/github-explorer) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-### `yarn start`
+<br>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![logo](./src/assets/img/logo.svg)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+</div>
 
-### `yarn test`
+<div align="center">
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a href="https://jovial-ardinghelli-cc66de.netlify.app/" target="_blank">Deployed</a>
 
-### `yarn build`
+![Screenshot](screenshot.jpg)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</div>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 💻 Project
+- Project developed during <strong> Bootcamp GoStack # 13 </strong> that has the educational objective.
+<strong> Github Explorer </strong> is an application where the user can list their favorite repositories.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :rocket: Technologies
 
-### `yarn eject`
+- [x] React.JS
+- [x] TypeScript
+- [x] Styled Components
+- [x] Axios
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :arrow_forward:  Usage
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Run `yarn install` or `npm install`.<br />
+2. Run `yarn start` and access `http://localhost:3000`.<br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🛠 Contributing
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-## Learn More
+## 🧾 Licence
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Please read [LICENSE](LICENSE.md) for details.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+
+Made with 💜 &nbsp; by [Paulo Vieira](https://www.linkedin.com/in/paulorcvieira/)
